@@ -25,4 +25,3 @@ git rebase --onto <newbase>
 ```
 
 ## Rollback
-
