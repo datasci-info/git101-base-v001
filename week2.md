@@ -9,6 +9,13 @@
 
 
 ## 分散式版本控制 -- Branch workflow
+- Mutiple feature development, mutiple branch.
+- Never disturb the main codebase.
+
+### How it work
+
+- pic
+
 
 ## What is `pull`?
 
