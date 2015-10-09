@@ -13,7 +13,7 @@
 
 ### How it work
 
-- pic
+![branch](https://docs.google.com/drawings/d/1GIYdJVVUDJah87L_eXc76YytV395qY8Y94RaSb5SNa0/pub?w=670&h=619)
 
 ## What is `pull`?
 - `pull` = `fetch` + `merge`
